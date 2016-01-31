@@ -19,5 +19,4 @@ Then simply add a IBAction for value changed (like you would with a normal segme
 ```
 
 ## Preview
-[[http://s7.postimg.org/bp4ckppu3/Simulator_Screen_Shot_Jan_31_2016_4_28_06_AM.png|alt=preview]]
-
+![alt tag](http://s7.postimg.org/bp4ckppu3/Simulator_Screen_Shot_Jan_31_2016_4_28_06_AM.png)
